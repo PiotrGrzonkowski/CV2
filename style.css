@@ -1,0 +1,147 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.35rem;
+
+
+}
+
+body {
+	background-color: white;
+
+
+}
+
+#prawo {
+
+	float: right;
+	width: 585px;
+	background-color: #F1F1F1;
+	padding: 10px;
+	height: 2070px;
+
+
+
+}
+
+#lewo {
+
+	float: left;
+	width: 225px;
+	background-color: #0B4D6F;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	height: 2070px;
+
+
+
+}
+
+#container {
+	width: 810px;
+
+
+
+}
+
+#imie {
+	background-color: #09405D;
+	margin-top:10px;
+	margin-bottom: 10px;
+	
+
+
+}
+
+#dane {
+	padding: 10px;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+#stopka {
+	clear: both;
+	text-align: center;
+	background-color: #0B4D6F;
+	color: white;
+	padding: 4px;
+}
+
+img {
+
+	width: 70%;
+	border-radius: 50%;
+	border: 5px solid #09405D;
+
+
+
+}
+
+
+#Programy,
+#jezyki,
+#atuty {
+	background-color: #09405D;
+	padding-top: 1px;
+
+
+}
+
+#lista1,
+#jezyk1,
+#atuty1 {
+	background-color: #0B4D6F;
+	padding: 3px;
+	text-align: left;
+
+}
+
+p {
+	height: 1px;
+
+}
+
+
+* {
+	box-sizing: border-box
+}
+
+
+
+.skills {
+	text-align: right;
+	padding: 2px;
+	color: white;
+}
+
+.html {
+	width: 50%;
+	background-color: #E54D26;
+}
+
+.css {
+	width: 50%;
+	background-color: #0070BA;
+}
+
+.js {
+	width: 35%;
+	background-color: #FDDB3B;
+}
+
+.react {
+	width: 15%;
+	background-color: #62DAFC;
+}
+
+
+
+#magazyn {
+	text-align: justify;
+
+
+}
+
+span {
+	font-size: 14px;
+}
